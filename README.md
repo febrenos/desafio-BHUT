@@ -2,14 +2,14 @@
 Usando Node.JS (TypeScript), crie uma aplicação (API REST) que contenha 3 endpoint, consumindo 2 endpoint de uma api rest externa
 
 <p>
-  <img src="./gs-front/assets/logo-circle.png" width="350" title="hover text">
+  <img src="./diagram.png" width="350" title="hover text">
 </p>
 
-## Desenvolvedor
 
-Pessoas | Nome
+. | .
 --- | ---
-0 | Felipe Breno
+Nome | Felipe Breno
+Linkedin | https://www.linkedin.com/in/felipe-breno-3aa5b217a/
 
 
 ## Info
